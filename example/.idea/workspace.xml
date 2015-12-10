@@ -4,6 +4,7 @@
     <list default="true" id="05ba65bc-04d5-4094-8f63-7e225b0a6cbc" name="Default" comment="" />
     <ignored path="example.iws" />
     <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
